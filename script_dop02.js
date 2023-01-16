@@ -14,3 +14,4 @@ let powMultiplyResultArray = multiplyResultArray ** 3;
 console.log(powMultiplyResultArray);
 // Вывести на экран первые 2 цифры полученного числа
 console.log(powMultiplyResultArray.toString().slice(0,2));
+
